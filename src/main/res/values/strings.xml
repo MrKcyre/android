@@ -669,5 +669,8 @@
     <string name="privacy">Privacy</string>
     <string name="file_not_found">File not found!</string>
 
+    <!-- Auto upload -->
+    <string name="autoupload_custom_folder">Setup a custom folder</string>
+
   <string name="empty" translatable="false"/>
 </resources>
